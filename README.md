@@ -12,7 +12,7 @@ Then run the code with
 npm start
 ```
 
-The result `json` file will be outputed on `/output/output.json` by default.
+The result `json` file will be outputted on `/output/output.json` by default.
 
 Change the settings for the input/output file's name/path if needed before running on `index.js`.
 
