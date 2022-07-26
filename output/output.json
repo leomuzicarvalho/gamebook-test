@@ -1,0 +1,177 @@
+{
+  "trackGroups": [
+    {
+      "target": "CH_medusa",
+      "tracks": [
+        {
+          "type": "DI",
+          "actions": [
+            {
+              "dialog": "Hm? Is that — Georgios!!! Come to Mama!",
+              "timestamp": 0,
+              "duration": 2730
+            },
+            {
+              "dialog": "I’ve missed my little Brainy-wainy-iac so much, isn’t that right, Lysi?",
+              "timestamp": 2730,
+              "duration": 4970
+            },
+            {
+              "dialog": "Every day \n  I asked the cards when my baby was coming back. Isn’t that right, Lysi?",
+              "timestamp": 8400,
+              "duration": 5880
+            },
+            {
+              "dialog": "My bundle of joy is finally home! Isn’t that wonderful, Giorgi?",
+              "timestamp": 16100,
+              "duration": 4410
+            },
+            {
+              "dialog": "Of course it is! You missed your mommy every day, didn’t you?!",
+              "timestamp": 21210,
+              "duration": 4340
+            },
+            {
+              "dialog": "Oh, ‘scuse me, sweetie. Work calls. Go pick out one of the bedrooms for yourself!",
+              "timestamp": 26250,
+              "duration": 5670
+            },
+            { "dialog": "Hello?", "timestamp": 31920, "duration": 420 },
+            {
+              "dialog": "Sweetie? Did you pick out a room yet?",
+              "timestamp": 66570,
+              "duration": 2590
+            }
+          ]
+        },
+        { "type": "AN", "actions": [] },
+        {
+          "type": "EM",
+          "actions": [
+            {
+              "actionId": "EM_Laughing",
+              "actionType": "EM",
+              "timestamp": 9100,
+              "target": "CH_genius"
+            },
+            {
+              "actionId": "EM_Laughing",
+              "actionType": "EM",
+              "timestamp": 9100,
+              "target": "CH_lucy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": "CH_lucy",
+      "tracks": [
+        {
+          "type": "DI",
+          "actions": [
+            { "dialog": "Yes, Mama.", "timestamp": 7700, "duration": 700 },
+            { "dialog": "Yes, Mama.", "timestamp": 14280, "duration": 700 },
+            {
+              "dialog": "You know those moments when you have to make a decision",
+              "timestamp": 32340,
+              "duration": 3850
+            },
+            {
+              "dialog": "that will alter the course of your entire life, little brother?",
+              "timestamp": 36190,
+              "duration": 4410
+            },
+            {
+              "dialog": "THIS is one of those. You will NOT choose the room on the left, capiche? Or I will make your life a living hell.",
+              "timestamp": 40880,
+              "duration": 7840
+            },
+            {
+              "dialog": "That’s none of your business; so shut your mouth.",
+              "timestamp": 50820,
+              "duration": 3430
+            },
+            { "dialog": "N-no.", "timestamp": 57890, "duration": 350 },
+            {
+              "dialog": "Don’t make me angry, Georgios. You wouldn’t like me when I’m angry.",
+              "timestamp": 58450,
+              "duration": 4690
+            }
+          ]
+        },
+        { "type": "AN", "actions": [] },
+        {
+          "type": "EM",
+          "actions": [
+            {
+              "actionId": "EM_Nod",
+              "actionType": "EM",
+              "timestamp": 8050,
+              "target": "CH_lucy"
+            },
+            {
+              "actionId": "EM_Confused",
+              "actionType": "EM",
+              "timestamp": 42420,
+              "target": "CH_genius"
+            },
+            {
+              "actionId": "EM_Nod",
+              "actionType": "EM",
+              "timestamp": 52850,
+              "target": "CH_lucy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": "CH_genius",
+      "tracks": [
+        {
+          "type": "DI",
+          "actions": [
+            {
+              "dialog": "Can’t breathe...",
+              "timestamp": 14980,
+              "duration": 1120
+            },
+            { "dialog": "Yes, Mama.", "timestamp": 20510, "duration": 700 },
+            { "dialog": "Yes, Mama.", "timestamp": 25550, "duration": 700 },
+            { "dialog": "", "timestamp": 40600, "duration": 0 },
+            { "dialog": "Yes?", "timestamp": 40600, "duration": 280 },
+            {
+              "dialog": "Why is it so important to you?",
+              "timestamp": 48720,
+              "duration": 2100
+            },
+            {
+              "dialog": "Does it have something to do with... the neighbor? \n",
+              "timestamp": 54250,
+              "duration": 3640
+            },
+            { "dialog": "Ha!", "timestamp": 58240, "duration": 210 },
+            {
+              "dialog": "I don’t like you much now. And my name is GENIUS!",
+              "timestamp": 63140,
+              "duration": 3430
+            }
+          ]
+        },
+        { "type": "AN", "actions": [] },
+        {
+          "type": "EM",
+          "actions": [
+            {
+              "actionId": "EM_Eyebrow",
+              "actionType": "EM",
+              "timestamp": 57820,
+              "target": "CH_hokus"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

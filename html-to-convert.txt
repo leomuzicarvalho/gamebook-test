@@ -1,0 +1,50 @@
+<div class="character">CH_medusa</div>
+<div class="dialog">Hm? Is that — Georgios!!! Come to Mama!</div>
+<div class="character">CH_medusa</div>
+<div class="dialog">I’ve missed my little Brainy-wainy-iac so much, isn’t that right, Lysi?</div>
+<div class="character">CH_lucy</div>
+<div class="dialog">Yes, <span class="text__action" data-action-type="EM" data-action-target="CH_lucy" data-action-id="EM_Nod">Nod</span>Mama.</div>
+<div class="character">CH_medusa</div>
+<div class="dialog">Every day <span class="text__action" data-action-type="EM" data-action-target="CH_genius" data-action-id="EM_Laughing">Laughing</span>
+  <span class="text__action" data-action-type="EM" data-action-target="CH_lucy" data-action-id="EM_Laughing">Laughing</span>I asked the cards when my baby was coming back. Isn’t that right, Lysi?</div>
+<div class="character">CH_lucy</div>
+<div class="dialog">Yes, Mama.</div>
+<div class="character">CH_genius</div>
+<div class="dialog">Can’t breathe...</div>
+<div class="character">CH_medusa</div>
+<div class="dialog">My bundle of joy is finally home! Isn’t that wonderful, Giorgi?</div>
+<div class="character">CH_genius</div>
+<div class="dialog">Yes, Mama.</div>
+<div class="character">CH_medusa</div>
+<div class="dialog">Of course it is! You missed your mommy every day, didn’t you?!</div>
+<div class="character">CH_genius</div>
+<div class="dialog">Yes, Mama.</div>
+<div class="character">CH_medusa</div>
+<div class="dialog">Oh, ‘scuse me, sweetie. Work calls. Go pick out one of the bedrooms for yourself!</div>
+<div class="character">CH_medusa</div>
+<div class="dialog">Hello?</div>
+<div class="character">CH_lucy</div>
+<div class="dialog">You know those moments when you have to make a decision</div>
+<div class="dialog">that will alter the course of your entire life, little brother?</div>
+<div class="character">CH_genius</div>
+<div class="dialog"></div>
+<div class="dialog">Yes?</div>
+<div class="character">CH_lucy</div>
+<div class="dialog">THIS is one of those. <span class="text__action" data-action-type="EM" data-action-target="CH_genius" data-action-id="EM_Confused">Confused</span>You will NOT choose the room on the left, capiche? Or I will make your life a living hell.</div>
+<div class="character">CH_genius</div>
+<div class="dialog">Why is it so important to you?</div>
+<div class="character">CH_lucy</div>
+<div class="dialog">That’s none of your business;<span class="text__action" data-action-type="EM" data-action-target="CH_lucy" data-action-id="EM_Nod">Nod</span> so shut your mouth.</div>
+<div class="character">CH_genius</div>
+<div class="dialog">Does it have something to do with... the neighbor? <span class="text__action" data-action-type="EM" data-action-target="CH_hokus" data-action-id="EM_Eyebrow">Eyebrow</span>
+</div>
+<div class="character">CH_lucy</div>
+<div class="dialog">N-no.</div>
+<div class="character">CH_genius</div>
+<div class="dialog">Ha!</div>
+<div class="character">CH_lucy</div>
+<div class="dialog">Don’t make me angry, Georgios. You wouldn’t like me when I’m angry.</div>
+<div class="character">CH_genius</div>
+<div class="dialog">I don’t like you much now. And my name is GENIUS!</div>
+<div class="character">CH_medusa</div>
+<div class="dialog">Sweetie? Did you pick out a room yet?</div>

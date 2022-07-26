@@ -1,0 +1,1 @@
+export const DURATION_MULTIPLIER_MS = 70;
